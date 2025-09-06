@@ -1,9 +1,0 @@
-[
-	[
-		{
-			"op": "add",
-			"path": "/##files##/-",
-			"value": "/interface/scripted/fm_musicplayer/FrackinMusic.config"
-		}
-	]
-]
